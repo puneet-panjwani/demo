@@ -8,7 +8,7 @@ public class MainController {
 
     @GetMapping("/")
     String index () {
-        return "CI-CD Chal Gya Bhai";
+        return "CI-CD implemented !!!";
     }
 
 }
