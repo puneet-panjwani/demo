@@ -8,7 +8,7 @@ public class MainController {
 
     @GetMapping("/")
     String index () {
-        return "Hello World";
+        return "It's working bitch";
     }
 
 }
