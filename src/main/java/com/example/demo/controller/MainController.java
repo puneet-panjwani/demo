@@ -8,7 +8,7 @@ public class MainController {
 
     @GetMapping("/")
     String index () {
-        return "CI-CD implemented !!!";
+        return "Dockerization";
     }
 
 }
